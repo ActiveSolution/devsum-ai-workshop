@@ -12,13 +12,13 @@
 | 10:00 | **FIKA** |
 | 10:15 | Prompt Engineering |
 |  | - _COT (StarCraft), Few Shot, ..._ |
-| 11:00 | Retreival Augmented Generation (RAG) |
+| 11:00 | Retrieval Augmented Generation (RAG) |
 |  | - _AI Search, Vector databases_ |
 | 12:00 | **LUNCH** |
 | 13:00 | Libraries/Frameworks |
 |  | - _LangChain, Semantic Kernel_ |
 | 14:00 | Excercises |
-|  | - _Option: Conference prewsentation proposal generation_ |
+|  | - _Option: Conference presentation proposal generation_ |
 |  | - _Option: RAG - Chat with AI Whitepaper documents_ |
 |  | - _Option: Orchestrate plugins with Semantic Kernel_ |
 |  ??| Agents |
