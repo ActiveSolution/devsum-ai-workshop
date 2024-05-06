@@ -18,9 +18,9 @@
 | 13:00 | Libraries/Frameworks |
 |  | - _LangChain, Semantic Kernel_ |
 | 14:00 | Excercises |
-|  | - _Session Generation_ |
-|  | - _RAG - AI Whitepaper_ |
-|  | - _Semantic Kernel plugins_ |
+|  | - _Option: Conference prewsentation proposal generation_ |
+|  | - _Option: RAG - Chat with AI Whitepaper documents_ |
+|  | - _Option: Orchestrate plugins with Semantic Kernel_ |
 |  ??| Agents |
 | | - _Wiki & Calc, SQL Agent_ |
 | ?? | Prompt Evaluations |
