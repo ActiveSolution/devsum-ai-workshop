@@ -2,7 +2,7 @@
 
 # Links to slides and things mentioned during the workshop
 
-Semantic Kernel presentation (and others)
+Semantic Kernel & Azure OpenAI Service presentations (and others)
 https://github.com/jakobehn/presentations
 
 Alans Inside GPT session
