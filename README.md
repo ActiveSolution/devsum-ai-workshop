@@ -1,5 +1,18 @@
 # DevSum 2024 Pre-conf Workshop - Developing Solutions with GPT in Azure Open AI
 
+# Links to slides and things mentioned during the workshop
+
+Semantic Kernel presentation (and others)
+https://github.com/jakobehn/presentations
+
+Alans Inside GPT session
+https://www.youtube.com/watch?v=2HFCd7tw-1w
+
+Vectors comparision demo site
+https://pamelafox.github.io/vectors-comparison/
+
+Azure AI Search Lab (that you can deploy in your subscription)
+https://github.com/jelledruyts/azure-ai-search-lab
 
 # Guided Quickstarts & Tutorials
 
