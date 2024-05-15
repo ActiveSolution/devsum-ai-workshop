@@ -14,6 +14,9 @@ https://pamelafox.github.io/vectors-comparison/
 Azure AI Search Lab (that you can deploy in your subscription)
 https://github.com/jelledruyts/azure-ai-search-lab
 
+3Blue1Brown YouTube channel (understanding GPTs and LLMs)
+https://www.youtube.com/@3blue1brown
+
 # Guided Quickstarts & Tutorials
 
 ## Azure Open AI Service
